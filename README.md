@@ -1,75 +1,145 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Sorn+Sophamarinet+👋;Full-Stack+Developer;Laravel+%7C+React+%7C+Next.js;Java+Spring+Boot;Learning+DevOps+🚀" />
+<!-- Animated header wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+
+<div align="center">
+
+<!-- Colorful animated name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=500&color=F70AFF&center=true&vCenter=true&repeat=false&width=800&height=100&lines=Sorn+Sophamarinet" alt="Name" />
+
+<!-- Replaced broken GIF with working emoji -->
+👋
+
+<!-- Animated subtitle with gradient colors -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Multi-Stack+Engineer+%F0%9F%92%BB;DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+
+<!-- Replaced broken GIF with working divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<!-- About Me section with balanced layout -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<!-- Replaced broken GIF with emoji -->
+## 💫 About Me
+
+```javascript
+const sophamarinet = {
+    fullName: "Sorn Sophamarinet",
+    location: "🇰🇭 Cambodia",
+    role: "Full-Stack Developer",
+    currentFocus: "DevOps Engineer",
+    learning: ["Kubernetes", "AWS", "CI/CD","Jenkins"],
+    interests: [
+        "Web Development", 
+        "System Architecture", 
+        "Automation"
+    ],
+    motto: "Code with passion, deploy with confidence",
+    funFact: "🌙 I'm a night owl who writes my best code when the world is asleep"
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+<br/><br/>
+<!-- Replaced broken GIF with working coding animation -->
+<img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  
+### 💬 Random Dev Quote
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+
+### Show some love by starring repositories
+
+<img src="https://komarev.com/ghpvc/?username=Sorn-Sophamarinet&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- GitHub Analytics section -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- GitHub Trophies section -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Tech Stack section with balanced layout -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Development" alt="Backend" />
+
+<p>
+<img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="Laravel" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" />
 </p>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Frontend+Development" alt="Frontend" />
 
-## 👨‍💻 About Me
-
-🚀 **Full-Stack Developer | Multi-Stack Engineer | DevOps Learner**
-
-I enjoy building **scalable, modern applications** using multiple technologies — from backend systems to modern frontend frameworks, and now focusing on **DevOps & deployment**.
-
----
-
-## 🛠️ Tech Stack
-
-### 🔙 Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Currently
-- 🔭 Building full-stack web apps
-- 🌱 Learning **DevOps (Docker, CI/CD, Nginx)**
-- 🧠 Improving system design & clean architecture
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sorn-Sophamarinet&show_icons=true&theme=tokyonight" />
+<p>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="65" height="65" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sorn-Sophamarinet&theme=tokyonight" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Database+%26+DevOps" alt="Database & DevOps" />
+
+<p>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="70" height="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70" />
 </p>
 
----
+</div>
 
-## 📈 Top Languages
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sorn-Sophamarinet&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  
+### 💬 Random Dev Quote
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+<br/>
 
-## 🤝 Connect With Me
-- 🌐 GitHub: https://github.com/Sorn-Sophamarinet
+### Show some love by starring repositories
 
----
+<img src="https://komarev.com/ghpvc/?username=Sorn-Sophamarinet&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and leave a star!* 🚀
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+
+</div>
