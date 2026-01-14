@@ -12,7 +12,7 @@
 👋
 
 <!-- Animated subtitle with gradient colors -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Multi-Stack+Engineer+%F0%9F%92%BB;DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;DevOps+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 <!-- Replaced broken GIF with working divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -58,10 +58,6 @@ const sophamarinet = {
 <br/>
 
 <div align="center">
-  
-### 💬 Random Dev Quote
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
