@@ -120,4 +120,11 @@ const sophamarinet = {
 
 </div>
 
-⭐ **If you like my works, consider giving my repositories a star!** ⭐  
+⭐ **If you like my works, consider giving my repositories a star!** ⭐
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sorn-Sophamarinet/Sorn-Sophamarinet/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sorn-Sophamarinet/Sorn-Sophamarinet/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sorn-Sophamarinet/Sorn-Sophamarinet/output/pacman-contribution-graph.svg">
+</picture>
+</p>
