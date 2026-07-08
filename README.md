@@ -119,3 +119,12 @@ const sophamarinet = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
+⭐ **If you like my works, consider giving my repositories a star!** ⭐  
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sorn-Sophamarinet/Sorn-Sophamarinet/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sorn-Sophamarinet/Sorn-Sophamarinet/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sorn-Sophamarinet/Sorn-Sophamarinet/output/pacman-contribution-graph.svg">
+</picture>
+</p>
