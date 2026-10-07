@@ -118,7 +118,7 @@
 
 <td width="42%" align="top" align="center"> <!-- ======================================================== --> <!-- FINAL SYSTEM CHECK --> <!-- ======================================================== --> 
 <code>┌──────────────────────────────────────────────┐</code><br>
-<code>│ SORN SOPHAMARINET   PROFILE                  │</code><br> 
+<code>│                   PROFILE                    │</code><br> 
 <code>└──────────────────────────────────────────────┘</code>
 <br><br> 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=1100&pause=350&color=60A5FA&center=true&vCenter=true&width=520&lines=%5B+BOOTING+DEVOPS+CORE+%5D;%5B+LOADING+PLATFORM+%5D;%5B+CHECKING+SERVICES+%5D;%5B+SYSTEM+READY+%5D" alt="Animated system check" >
